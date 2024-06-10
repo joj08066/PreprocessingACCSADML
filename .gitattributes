@@ -1,0 +1,2 @@
+C:/Users/elisa/OneDrive/Documentos/Classpython/dengue_sinan.csv filter=lfs diff=lfs merge=lfs -text
+dengue_sinan.csv filter=lfs diff=lfs merge=lfs -text
