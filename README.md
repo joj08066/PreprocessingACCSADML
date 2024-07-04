@@ -1,6 +1,4 @@
-# QUADRO DE SISTEMATIZAÇÃO DO PROJETO
-
-## Primeiro Piloto: Casos de Dengue
+## Casos de Dengue
 
 ### Descrição
 Desenvolvimento de um protótipo de inteligência artificial para a SESAB para a análise de dados da rede de assistência a pacientes no Estado da Bahia.
