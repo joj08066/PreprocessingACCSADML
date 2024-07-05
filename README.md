@@ -80,3 +80,7 @@ Emily Santos Sancho - Contribuição: Gestão de Projeto
 Felipe Carvalho Goes - Contribuição: Aprendizado de maquina e Pré-processamento
 
 João Vitor Moreira de Jesus - [GitHub](https://github.com/joj08066) - Contribuição: Pré-processamento
+
+### Relatórios
+
+link para pasta de relatórios: https://github.com/joj08066/PreprocessingACCSADML/tree/master/relatorios
