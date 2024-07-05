@@ -68,7 +68,7 @@ Desenvolvimento de um protótipo para acessar a base de dados da SESAB utilizand
 ### Instalação
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/usuario/repo.git](https://github.com/joj08066/PreprocessingACCSADML)
+   git clone https://github.com/joj08066/PreprocessingACCSADML
 
 
 
