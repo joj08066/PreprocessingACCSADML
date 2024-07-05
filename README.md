@@ -72,7 +72,11 @@ Desenvolvimento de um protótipo para acessar a base de dados da SESAB utilizand
 Agradecemos as seguintes pessoas que contribuíram para este projeto:
 
 Ana Clara Almeida Moreira - Contribuição: Pré-processamento
+
 Daniel Oliveira Santiago da Silva - Contribuição: Pré-processamento
+
 Emily Santos Sancho - Contribuição: Gestão de Projeto
+
 Felipe Carvalho Goes - Contribuição: Aprendizado de maquina e Pré-processamento
+
 João Vitor Moreira de Jesus - [GitHub](https://github.com/joj08066) - Contribuição: Pré-processamento
