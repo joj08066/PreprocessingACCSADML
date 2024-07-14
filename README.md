@@ -63,6 +63,11 @@ Desenvolvimento de um protótipo para acessar a base de dados da SESAB utilizand
 
 ## Instruções de Uso
 
+- Preprocessamento-base contém a estratégia base do pre-processamento aplicado pela equipe
+- Preprocessamento-versoes contém a implementação das 8 estratégias de pré processamento exploradas
+- Algoritmos-etapaA-final contém a implementação dos 5 modelos com parâmetros fixos definidos pela professora Daniela
+- Algoritmos-etapaApt2-final contém a implementação de todos os testes realizados pela equipe para fine-tuning dos hiper-parâmetros de cada um dos modelos 
+
 ### Instalação
 1. Clone o repositório:
    ```bash
@@ -83,4 +88,4 @@ João Vitor Moreira de Jesus - [GitHub](https://github.com/joj08066) - Contribui
 
 ### Relatórios
 
-link para pasta de relatórios: https://github.com/joj08066/PreprocessingACCSADML/tree/master/relatorios
+link para pasta de relatórios: https://github.com/joj08066/PreprocessingACCSADML/tree/master/Relat%C3%B3rios
