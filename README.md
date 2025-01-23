@@ -74,7 +74,7 @@ Desenvolvimento de um protótipo para acessar a base de dados da SESAB utilizand
    git clone https://github.com/joj08066/PreprocessingACCSADML
 
 ### Contribuição
-Agradecemos as seguintes pessoas que contribuíram para este projeto:
+Agradecemos as seguintes pessoas que contribuíram para esse projeto:
 
 Ana Clara Almeida Moreira - Contribuição: Pré-processamento
 
